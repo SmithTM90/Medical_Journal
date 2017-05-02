@@ -1,0 +1,28 @@
+{
+  "name": "Medical_Journal",
+  "version": "1.0.0",
+  "description": "An app to be used to log medical use/interactions, to better understand which treatments work on an person by person basis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmithTM90/Medical_Journal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmithTM90/Medical_Journal/issues"
+  },
+  "homepage": "https://github.com/SmithTM90/Medical_Journal#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7"
+  }
+}
